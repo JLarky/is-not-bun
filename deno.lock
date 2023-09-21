@@ -1,0 +1,15 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:is-bun": "npm:is-bun@0.2.0"
+    },
+    "npm": {
+      "is-bun@0.2.0": {
+        "integrity": "sha512-cj3SZW4Jbm4kpEj8L/Ig+ERgP/y2rG+lhdNmtjmB3+ykZCZB7QYwueHFuhtuj4/UpJl1BgNZk6Qhpfz40KAJmA==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}
